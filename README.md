@@ -10,3 +10,8 @@ Repositorio de la Evaluación 02. Su finalidad es evidenciar el control de versi
 
 Evaluacion 02, seccion T4MO, grupo 00. Estudiante: Ernesto Giordano Silva Pinas.
 
+
+## Control de cambios
+
+Se prepararon README.md y pom.xml. Luego se retiro pom.xml del staging y se descarto su cambio.
+
