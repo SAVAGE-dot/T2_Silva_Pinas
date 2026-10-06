@@ -1,0 +1,17 @@
+# Salida de compilacion Maven y Eclipse
+target/
+bin/
+
+# Metadatos del IDE: no forman parte del codigo fuente
+.settings/
+.classpath
+.project
+
+# Otros entornos
+.idea/
+*.iml
+.vscode/
+
+# Sistema
+.DS_Store
+Thumbs.db
