@@ -15,3 +15,8 @@ Evaluacion 02, seccion T4MO, grupo 00. Estudiante: Ernesto Giordano Silva Pinas.
 
 Se prepararon README.md y pom.xml. Luego se retiro pom.xml del staging y se descarto su cambio.
 
+
+## Gestion de ramas
+
+Rama utilizada: feature-silva. Se creo ControlVersion_Silva.java en esa rama.
+
