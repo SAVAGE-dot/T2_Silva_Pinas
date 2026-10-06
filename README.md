@@ -5,3 +5,8 @@
 **Proyecto:** T2_Silva_Pinas  
 
 Repositorio de la Evaluación 02. Su finalidad es evidenciar el control de versiones con Git y GitHub: preparación del repositorio, gestión de cambios, ramas y sincronización con el remoto.
+
+## Evidencia T2
+
+Evaluacion 02, seccion T4MO, grupo 00. Estudiante: Ernesto Giordano Silva Pinas.
+
